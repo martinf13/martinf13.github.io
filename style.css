@@ -56,7 +56,7 @@ section{
   float: left;
   padding: 5px;
   margin-right: 10px;
-  border: 1px solid #DEDC9;
+  border: 1px solid #DEDCD9;
 }
 
 .article a {
@@ -74,8 +74,8 @@ footer{
 footer ul {
   float: left;
   list-style: none;
-  padding; 0px;
-  margin; 20px;
+  padding: 0px;
+  margin: 20px;
 }
 
 footer li{
@@ -89,21 +89,21 @@ footer p{
   color: #777;
 }
 
-#über{
+#cubby{
   margin: 15px;
 }
 
-#über h1{
+#cubby h1{
   color: #777;
   padding-bottom: 10px;
 }
 
-#kontakt{
+#balu{
   margin:15px;
 
 }
 
-#kontakt h1{
+#balu h1{
   color: #777;
   padding-bottom: 10px;
 }
