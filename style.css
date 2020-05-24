@@ -3,7 +3,7 @@
   margin-right: auto;
   margin-left: auto;
   font-size: 16px;
-  font-family: arial, sans-serif;
+  font-family: Verdana, sans-serif;
 }
 
 body{
@@ -11,6 +11,7 @@ body{
 }
 
 header{
+  font-family: Verdana, sans-serif;
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
